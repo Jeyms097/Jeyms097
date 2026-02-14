@@ -42,39 +42,6 @@ Open to full-time and remote development opportunities.
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Jeyms097">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeyms097&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Jeyms097">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeyms097&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jeyms097">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeyms097&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-> Replace `REPO_NAME_1`, `REPO_NAME_2`, `REPO_NAME_3` with your actual repository names.
-
----
-
-# 📊 GitHub Insights
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jeyms097&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyms097&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
-</p>
-
----
-
 # 🔥 Contribution Activity
 
 <p align="center">
